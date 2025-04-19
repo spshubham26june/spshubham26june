@@ -37,9 +37,8 @@ I enjoy solving real-world problems through clean, maintainable code and have a 
 
 ## 📫 Let's Connect
 
-- 📧 Email: [shubhampatil.dev@gmail.com](mailto:shubhampatil.dev@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/shubhampatil-dev](https://linkedin.com/in/shubhampatil-dev)
-- 💻 Portfolio: [shubhampatil.dev](https://shubhampatil.dev) *(if applicable)*
+- 📧 Email: [spshubham26june@gmail.com](mailto:spshubham26june@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/spshubhampatil](https://www.linkedin.com/in/spshubhampatil/)
 
 ---
 
