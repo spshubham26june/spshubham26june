@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-Hello! I'm **Shubham Patil**, a passionate and results-driven **Java Full Stack Developer** with over 2.5 years of experience in building scalable web applications and modern user interfaces. I specialize in **Java**, **Spring Boot**, and **React.js**, and I’m proficient in crafting responsive designs using **HTML**, **CSS**, and **JavaScript**.
+Hello! I'm **Shubham Patil**, a passionate and results-driven **Java Full Stack Developer** with over 3.5 years of experience in building scalable web applications and modern user interfaces. I specialize in **Java**, **Spring Boot**, and **React.js**, and I’m proficient in crafting responsive designs using **HTML**, **CSS**, and **JavaScript**.
 
 I enjoy solving real-world problems through clean, maintainable code and have a solid understanding of both front-end and back-end development. I love collaborating in agile teams, learning new technologies, and consistently improving my skills to deliver robust, high-quality software solutions.
 
